@@ -1,5 +1,5 @@
 # US_Electricity_ML_Modeling
-This repo hosts a [report](https://github.com/arashshams/US_Electricity_ML_Modeling/blob/master/Analysis.ipynb) on modeling the electrical energy consumption of US residential dwellings using Machine Learning. The data is taken from the 2009 RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS) which is avilable [here](https://www.eia.gov/consumption/residential/data/2009/index.php?view=microdata) on US Energy Information Administration website.
+This repo hosts a [report](https://github.com/arashshams/US_Electricity_ML_Modeling/blob/master/Analysis.ipynb) on modeling the housing prices of residential homes in  Ames, Iowa using Machine Learning. The data is taken from the Kaggle Housing Prices Competition which is avilable [here](https://www.kaggle.com/c/home-data-for-ml-course/overview) on the Kaggle website.
 
 ### Dependencies
 
